@@ -1,5 +1,6 @@
 # tugas-ulas-gim-2
 Tugas Ulas Mekanika Game
+Muhammad Ridho Muzada Elfa - 6025221025
 
 Game Hide and Seek
 ![vecteezy_children-playing-hide-and-seek-at-the-park_7206626](https://user-images.githubusercontent.com/114866289/223915404-55948d16-9d64-4e8e-8041-9f0f9ef0dac9.jpg)
