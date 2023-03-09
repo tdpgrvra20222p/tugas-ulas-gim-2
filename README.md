@@ -2,6 +2,8 @@
 Tugas Ulas Mekanika Game
 
 Game Hide and Seek
+![vecteezy_children-playing-hide-and-seek-at-the-park_7206626](https://user-images.githubusercontent.com/114866289/223915404-55948d16-9d64-4e8e-8041-9f0f9ef0dac9.jpg)
+
 - Sistem Pemilihan
 - Mobilitas
 
@@ -17,7 +19,7 @@ Time :
 - Tidak bisa dipercepat atau di putar balik
 
 Object :
-- Buat State Diagram
+![Alur hide and seek](https://user-images.githubusercontent.com/114866289/223915166-22623a59-c73f-4836-827e-bda00ac75099.jpg)
 
 Aksi Dasar:
 - Pemain bisa berlari (mengejar/dikejar)
@@ -50,8 +52,10 @@ Chance
 - Pemain yang kalah (ketahuan persembunyian) berpeluang jadi penjaga
 - Penjaga yang tidak bisa menemukan semua pemain, akan jadi penjaga terus menerus
 
-
+-------------------------------------------------------------------------------------------------
 Game Pong
+![pong](https://user-images.githubusercontent.com/114866289/223915504-ad67b81d-62d9-4036-85d5-63ffb0376f50.jpeg)
+
 - Mobilitas
 - Sistem Penilaian
 - Game Over
