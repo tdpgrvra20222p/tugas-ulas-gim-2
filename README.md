@@ -59,7 +59,7 @@ Game Pong
 - Mobilitas
 - Sistem Penilaian
 - Game Over
--
+
 Space :
 - Kontinu (State setiap point berbeda)
 - Dua Dimensi
@@ -72,7 +72,7 @@ Time :
 - Tidak bisa dipercepat atau di putar balik
 
 Object :
-- Buat State Diagram
+![Alur Game Pong](https://user-images.githubusercontent.com/114866289/223932632-66913556-ba67-4eb4-b01f-217ee335fe23.jpg)
 
 Aksi Dasar:
 - Menggerakan balok untuk memantulkan bola
